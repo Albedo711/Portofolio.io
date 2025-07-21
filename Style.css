@@ -262,16 +262,33 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    flex-direction: column;
     padding: 2rem 0;
 }
 
+.project .box-container h1{
+    align-items: center;
+    color: white;
+    padding: 1.5rem;
+    font-size: 30px;
+}
+
+.project .box-container p{
+    color: white;
+    font-size: 18px;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    text-align: justify;
+}
+
 .project .box-container .box{
-    height: 20rem;
-    width: 26rem;
+    height: 27rem;
+    width: 40;
     border-radius: 1rem;
     margin: 2rem;
     overflow: hidden;
     cursor: pointer;
+    margin-top:50px ;
 }
 
 .project .box-container .box img{
