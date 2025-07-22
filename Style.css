@@ -383,6 +383,12 @@ header .navbar ul li a:hover{
         width: 100%;
         text-align: center;
     }
+    .project .box-container p{
+        width: 100%;
+        text-align: justify;
+        padding-right: 5rem;
+        padding-left: 5rem;
+    }
  }
 
 
@@ -407,6 +413,8 @@ header .navbar ul li a:hover{
     .project .box-container p{
         width: 100%;
         text-align: justify;
+        padding-right: 5rem;
+        padding-left: 5rem;
     }
 
 
