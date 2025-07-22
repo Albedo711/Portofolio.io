@@ -379,7 +379,10 @@ header .navbar ul li a:hover{
     html{
         font-size: 50%;
     }
-    
+    .project .box-container h1{
+        width: 100%;
+        text-align: center;
+    }
  }
 
 
@@ -394,8 +397,17 @@ header .navbar ul li a:hover{
     .education .box-container .box{
         width: 100%;
     }
-    .project .box-container .box{
+    .project .box-container .box img{
         width: 100%;
     }
+    .project .box-container h1{
+        width: 100%;
+        text-align: center;
+    }
+    .project .box-container p{
+        width: 100%;
+        text-align: justify;
+    }
+
 
  }
